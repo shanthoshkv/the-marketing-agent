@@ -1,0 +1,13 @@
+{
+  "name": "india-marketing",
+  "displayName": "India Marketing",
+  "version": "0.1.0",
+  "description": "Plan and write marketing for Indian audiences and Indian companies: brand, product, video, creators, performance, B2B, and ideas.",
+  "author": {
+    "name": "Shanthosh KV"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/shanthoshkv/the-marketing-agent",
+  "homepage": "https://github.com/shanthoshkv/the-marketing-agent",
+  "keywords": ["marketing", "india", "video", "product-marketing", "hindi", "asci"]
+}

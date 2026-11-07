@@ -1,0 +1,17 @@
+{
+  "name": "the-marketing-agent",
+  "description": "A Claude Code plugin for marketing to Indian audiences and Indian companies.",
+  "owner": {
+    "name": "Shanthosh KV"
+  },
+  "plugins": [
+    {
+      "name": "india-marketing",
+      "source": "./",
+      "description": "Plan and write marketing for Indian audiences and Indian companies: brand, product, video, creators, performance, B2B, and ideas.",
+      "version": "0.1.0",
+      "license": "MIT",
+      "keywords": ["marketing", "india", "video", "product-marketing", "hindi", "asci"]
+    }
+  ]
+}
