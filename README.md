@@ -37,15 +37,19 @@ Run that from the repo root. Use `/india-marketing`, or ask for marketing aimed 
 
 ## What a run writes
 
-The agent fills one template:
+Founder mode is one city and a short kit. Agency mode is the full kit plus a critic pass. A month of content is eight slots, not thirty invented claims.
 
 | Template | Use it when |
 | --- | --- |
 | `assets/brief.md` | The job is still unclear |
-| `assets/campaign.md` | You want the strategy or the media sketch |
-| `assets/script.md` | You want a film, a Reel, a Short, or a creator brief |
+| `assets/kit.md` | You want the campaign: idea, hooks, film, WhatsApp, creator |
+| `assets/campaign.md` | You want the strategy only |
+| `assets/script.md` | You want a film or a creator script only |
+| `assets/critic.md` | You want the draft scored, not rewritten |
 
-Audience-facing lines are in the audience language. A figure from the benchmarks file carries its source and month. A price or city the agent added is marked `Assumption:`.
+Audience-facing lines are in the audience language. A figure from the benchmarks file carries its source and month. A row older than a year is context. A price or city the agent added is marked `Assumption:`.
+
+Two agents sit beside the skill. `marketing-critic` scores a draft. `marketing-researcher` fetches a live number or date and does not write the ad.
 
 ## What this version does not do
 
@@ -55,9 +59,11 @@ No media buying, no ad-account login, and no finished film. The skill writes the
 
 ```
 .claude-plugin/plugin.json
-skills/india-marketing/    the skill
-  references/              market, channels, compliance, calendar, craft, plays, benchmarks
-  assets/                  brief, campaign, script, review
+agents/                    critic, researcher
+evals/scenarios.md
+skills/india-marketing/
+  references/              market, sectors, languages, offers, and the rest
+  assets/                  brief, kit, campaign, script, review, critic
 ```
 
 Figures in `skills/india-marketing/references/benchmarks.md` are dated November 2026.

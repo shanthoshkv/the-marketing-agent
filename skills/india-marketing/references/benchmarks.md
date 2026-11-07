@@ -4,6 +4,19 @@ Vintage: November 2026. Re-check any figure before it is published or put in a c
 
 If a newer primary source conflicts with a row, use the newer source and say you did.
 
+## Refresh
+
+A row older than twelve months is context. It is not a current price. Say the age in the same sentence.
+
+Open these before you call a number current:
+
+- Digital ad totals: the latest dentsu–e4m Digital Advertising Report and WPP Media This Year Next Year. Do not add them together.
+- Language and trust: the latest WPP Media–Kantar rural read, and any Kantar city study you actually opened.
+- Creator fees: a current roster or a quote. The bands below disagree with each other. They will move.
+- WhatsApp discovery and any single trade article: keep the "one source" label, or drop the number.
+
+The `marketing-researcher` agent does this pass. It does not write the ad. If nobody opened a page, the number stays at this vintage and you say so.
+
 ## Advertising market
 
 - Dentsu–e4m Digital Advertising Report, as reported February 2026: digital advertising closed 2025 at ₹71,621 crore. Social was about 29% (₹21,057 crore). Online video was about 28% (₹20,004 crore), projected to reach about 29% of digital by the end of 2026. A companion report forecast digital at ₹84,977 crore in 2026 and about 70% of total ad spend by 2027.

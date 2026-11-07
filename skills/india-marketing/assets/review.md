@@ -14,3 +14,9 @@ Fail the draft on any "no". Fix it before you deliver.
 - Paid or gifted work, and synthetic people, carry a disclosure in the language of the ad, early enough to see.
 - Prices are in INR. A figure from `benchmarks.md` has its source and month. Anything you added starts with `Assumption:`.
 - Who pays, who uses, and who is asked are named when the category needs a household or a buying group.
+- The mode is named. A founder run did not grow a second city or a roster.
+- The sector file was used when one matches, and that file's claim gate held.
+- Mumbai, Hyderabad, or Bengaluru did not receive a default language.
+- A WhatsApp thread exists only with opt-in, and the reply can be answered.
+- A campaign used `kit.md`: three hooks, a film, an end card, and an explicit "none" where WhatsApp or a creator does not exist.
+- Agency mode includes `critic.md`. The critic did not rewrite the draft.

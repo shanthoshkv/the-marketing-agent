@@ -42,7 +42,15 @@ Topical jokes are for brands that already have that permission. Do not attach th
 
 ## A still, when the user asks for one
 
-Describe a real place: city, time of day, clothes that belong there, pack copy in the right script, light from a window or a shopfront. Skip the default of marigolds, spices, and a tricolour unless the product is those things.
+Fill this. Do not default to marigolds, a spice pile, or a tricolour unless the product is those things.
+
+- City and room: a drawing room, a shop, a clinic, a classroom. Name the city. Lucknow and Indore do not share a room.
+- Time of day and light: window, shopfront, or the bulb that is already there. No unexplained golden haze.
+- Clothes that a person in that city would wear for this occasion. Not a costume.
+- Pack: the real pack. Words on it in the script from `languages.md`. If the pack does not exist yet, say the pack is `Missing` and do not design a logo.
+- What is absent: no monument, no extra brand, no child delivering the line, no fake "only 3 left" sticker.
+
+One still is one city. A second city is a second still.
 
 ## What to cut
 

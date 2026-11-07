@@ -65,4 +65,20 @@ Routine colour correction and AI-written copy are outside the picture-and-sound 
 
 ## Dark patterns
 
-Do not write a fake countdown, a fake "only 3 left", a hidden opt-out, or a price that is not the price at checkout. If the scarcity is real, the brief has to say why.
+Do not write a fake countdown, a fake "only 3 left", a hidden opt-out, or a price that is not the price at checkout. If the scarcity is real, the brief has to say why. A property inventory count is real only when the brief shows it.
+
+## Alcohol, tobacco, and stand-ins
+
+Do not write a liquor, tobacco, or pan masala ad. Do not write a surrogate that exists so the restricted brand can be advertised: a soda, a music label, a glass, or a water that shares the restricted brand's name and look. State rules differ. If the brief claims a specific state permission, quote the permission it already contains. Do not invent a legal path.
+
+## Food and cosmetics
+
+A food or a cosmetic does not cure, treat, or prevent a disease. Cut "immunity", "detox", "chemical-free", "fairness in 7 days", and "permanent" results unless the brief has evidence you can name. Name the cut in English. The shippable film talks about taste, use, or shade only when the brief supports that word.
+
+## Children
+
+Do not make a child the person who sells a health, money, education, or restricted product. Do not aim a junk-food or health claim at children. A child may be in a family scene. The child does not deliver the sales line.
+
+## Property documents
+
+Carpet area, price, approval, and the possession month ship only when the brief contains them. A view, a promise of a metro, or a festival discount that is not on the price list stays `Missing`.

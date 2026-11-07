@@ -60,6 +60,29 @@ Secondary calendars for 2026, not a panchang. Confirm before you book.
 
 Bhai Dooj is two days after Diwali. Confirm it. Christmas does not inherit this film.
 
+## Who sits it out
+
+- A tax or billing product sits out Diwali unless it is also a gift. Its clock is the due date.
+- A coaching brand sits out a joke during board, JEE, and NEET weeks.
+- A clinic does not borrow a festival to imply a cure.
+- A builder does not invent a festive price.
+- Chhath is not a Diwali extension. Christmas does not inherit a Diwali film.
+- A brand with no shop in Kerala does not buy Onam media there.
+
+## What people buy, when the brief is that category
+
+| Occasion | Fits | Leave it alone |
+| --- | --- | --- |
+| Onam | Home, clothes, the feast, gold in Kerala | A North Indian mithai film with Malayalam titles |
+| Ganesh Chaturthi | Home, sweets, community in Maharashtra | A generic "Indian festival" set |
+| Navratri | Clothes and nine nights, especially Gujarat | A Diwali lamp film |
+| Durga Puja | Clothes, food, time with friends in Bengal | The same film as Navratri |
+| Pongal and Sankranti | Harvest, food at home, new beginnings | A Diwali script with the name changed |
+| Diwali and Bhai Dooj | Guests, gifts, home, a second unit for the house | Chhath, unless the brief is for the Bihar and eastern UP belt |
+| Weddings | Clothes, jewellery, the house, travel | A one-night discount with no end |
+| Exams | A calm course, a timetable, a fee the brief states | A guaranteed rank |
+| Monsoon | What the category actually does in rain | A festival template |
+
 ## Category clocks that beat festivals
 
 - GST and tax products: the due-date week, not Diwali, unless the product is also a gift.
