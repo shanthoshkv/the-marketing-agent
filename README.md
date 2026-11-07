@@ -31,13 +31,17 @@ $src = Join-Path (Get-Location) "skills\india-marketing"
 New-Item -ItemType Junction -Path "$env:USERPROFILE\.claude\skills\india-marketing" -Target $src
 New-Item -ItemType Junction -Path "$env:USERPROFILE\.agents\skills\india-marketing" -Target $src
 New-Item -ItemType Junction -Path "$env:USERPROFILE\.grok\skills\india-marketing" -Target $src
+$hooks = Join-Path (Get-Location) "skills\feed-hooks"
+New-Item -ItemType Junction -Path "$env:USERPROFILE\.claude\skills\feed-hooks" -Target $hooks
+New-Item -ItemType Junction -Path "$env:USERPROFILE\.agents\skills\feed-hooks" -Target $hooks
+New-Item -ItemType Junction -Path "$env:USERPROFILE\.grok\skills\feed-hooks" -Target $hooks
 ```
 
 Run that from the repo root. Use `/india-marketing`, or ask for marketing aimed at an Indian audience, company, or city.
 
 ## What a run writes
 
-Founder mode is one city and a short kit. Agency mode is the full kit plus a critic pass. A month of content is eight slots, not thirty invented claims.
+Founder mode is one city and a short kit. Agency mode is the full kit plus a critic pass. A month of content is eight slots, not thirty invented claims. A hook, or a question about how a feed ranks a post, uses `skills/feed-hooks`.
 
 | Template | Use it when |
 | --- | --- |
@@ -61,6 +65,8 @@ No media buying, no ad-account login, and no finished film. The skill writes the
 .claude-plugin/plugin.json
 agents/                    critic, researcher
 evals/scenarios.md
+research/papers/           open papers on hooks and ranking
+skills/feed-hooks/         skill built from those papers
 skills/india-marketing/
   references/              market, sectors, languages, offers, and the rest
   assets/                  brief, kit, campaign, script, review, critic

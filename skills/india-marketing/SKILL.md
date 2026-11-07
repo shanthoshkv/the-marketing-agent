@@ -8,7 +8,7 @@ description: >-
   property, or an Indian city or state.
 license: MIT
 metadata:
-  version: "0.2.0"
+  version: "0.3.0"
 ---
 
 # India marketing
@@ -36,6 +36,7 @@ Read `references/market.md` and `references/examples.md` on every job. Before yo
 | A creator | `references/creators.md` |
 | A brand platform | `references/platforms.md` |
 | A founder, or a 30-day run | `references/founder-run.md` |
+| A hook, retention, or how a feed ranks a post | `../feed-hooks/SKILL.md` |
 
 Paths are relative to this skill folder.
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.3.0 - 2026-11-07
+
+- A `feed-hooks` skill for a hook, a retention loop, and how a feed ranks the next post.
+- Eleven open papers in `research/papers/`, with what each one supports in `research/INDEX.md`.
+- Covington 2016 and Allcott 2019 stay on disk. Their licenses do not allow the public repo.
+- India marketing routes hook and ranking jobs to `feed-hooks`.
+
 ## 0.2.0 - 2026-11-07
 
 - Campaign kit, founder and agency modes, and a 30-day founder run.
