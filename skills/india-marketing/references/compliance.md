@@ -65,11 +65,15 @@ Routine colour correction and AI-written copy are outside the picture-and-sound 
 
 ## Dark patterns
 
-Do not write a fake countdown, a fake "only 3 left", a hidden opt-out, or a price that is not the price at checkout. If the scarcity is real, the brief has to say why. A property inventory count is real only when the brief shows it.
+The CCPA's Guidelines for Prevention and Regulation of Dark Patterns (2023) name the common ones: false urgency, basket sneaking, confirm shaming, forced action, subscription traps, interface interference, bait and switch, drip pricing, disguised ads, and nagging. Do not write a fake countdown, a fake "only 3 left", a hidden opt-out, a hard-to-cancel subscription, or a price that is not the price at checkout. If the scarcity is real, the brief has to say why. A property inventory count is real only when the brief shows it.
 
 ## Alcohol, tobacco, and stand-ins
 
 Do not write a liquor, tobacco, or pan masala ad. Do not write a surrogate that exists so the restricted brand can be advertised: a soda, a music label, a glass, or a water that shares the restricted brand's name and look. State rules differ. If the brief claims a specific state permission, quote the permission it already contains. Do not invent a legal path.
+
+## Online money games
+
+Do not write an ad for a real-money game: fantasy sports for cash, rummy or poker for stakes, or any game where you deposit money to win money. The Promotion and Regulation of Online Gaming Act, 2025 prohibits these games and their advertising. Free e-sports and casual games with no stake can be advertised. A "free" game that leads to a paid stake is a real-money game. Confirm the current rules against the Gazette before you advise a client.
 
 ## Food and cosmetics
 

@@ -60,6 +60,8 @@ Secondary calendars for 2026, not a panchang. Confirm before you book.
 
 Bhai Dooj is two days after Diwali. Confirm it. Christmas does not inherit this film.
 
+For any year other than 2026, a festival date is `Missing` until someone opens that year's panchang or the state's holiday list. Do not shift 2026 dates by a year. Lunar festivals move by up to three weeks. The `marketing-researcher` agent fetches the date and tags the page.
+
 ## Who sits it out
 
 - A tax or billing product sits out Diwali unless it is also a gift. Its clock is the due date.

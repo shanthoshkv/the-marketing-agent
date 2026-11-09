@@ -5,3 +5,6 @@
 # They stay on disk for local reading.
 research/papers/02-covington-2016-youtube-dnn.pdf
 research/papers/12-allcott-2019-welfare-facebook.pdf
+
+# Eval run output
+evals/results/

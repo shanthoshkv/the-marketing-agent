@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.4.0 - 2026-11-09
+
+- Sectors: apps, travel, jewellery and weddings, auto, and causes (NGO and civic). Government-exam aspirants in education.
+- Compliance: online money games, the CCPA dark-pattern list.
+- Channels: Telegram, ONDC, FM radio, local outdoor, Roman-script search, and budget tiers.
+- `references/personas.md` and `assets/readout.md`.
+- Language QA in the review and the critic.
+- Festival dates outside 2026 are `Missing` until a panchang is opened.
+- Slash commands in `commands/`.
+- `evals/` is now a `claude plugin eval` suite, with agency-critic and cause cases.
+- Golden outputs in `examples/`.
+- Skill versions removed. `plugin.json` holds the version.
+- Broader trigger description.
+
 ## 0.3.0 - 2026-11-07
 
 - A `feed-hooks` skill for a hook, a retention loop, and how a feed ranks the next post.

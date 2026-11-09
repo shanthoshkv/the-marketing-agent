@@ -10,4 +10,6 @@ The claim gate is the education row in `compliance.md`. Cut a guaranteed rank, s
 
 Language is the language the parent will trust. For a high-consideration course that is often the state language, not Hinglish. `languages.md`.
 
+Government-exam aspirants (SSC, banking, railways, state PSC, UPSC) live on YouTube and Telegram, often in Hindi or the state language, and buy on price and the teacher's name. Cut "selection pakka" and any vacancy count or exam date that is not from the official notification. A date the commission has not announced is `Missing`.
+
 Sample altitude: a JEE class in Kota that wants "rank under 100 guaranteed". Cut that line in English. The film can say who teaches and when the batch starts, if the brief says so.

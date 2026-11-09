@@ -2,13 +2,13 @@
 name: india-marketing
 description: >-
   Use when the audience, company, or market is Indian and the work is brand,
-  product, performance, video, creator, content, B2B, or idea marketing.
-  Triggers include India, Bharat, Hindi, Hinglish, a regional language, Tier 2,
-  Tier 3, festive, Diwali, WhatsApp, ASCI, DPDP, D2C, kirana, coaching, clinic,
-  property, or an Indian city or state.
+  product, performance, video, creator, content, B2B, cause, or idea
+  marketing. Triggers include India, Bharat, Hindi, Hinglish, Tamil, Telugu,
+  Kannada, Malayalam, Marathi, Bengali, Gujarati, a regional language, Tier 1,
+  Tier 2, Tier 3, festive, Diwali, IPL, Reels, Instagram, YouTube, WhatsApp,
+  Flipkart, Meesho, quick commerce, UPI, ASCI, DPDP, D2C, kirana, coaching,
+  clinic, property, jewellery, wedding, NGO, or an Indian city or state.
 license: MIT
-metadata:
-  version: "0.3.0"
 ---
 
 # India marketing
@@ -28,7 +28,9 @@ Read `references/market.md` and `references/examples.md` on every job. Before yo
 | The procedure for a job | `references/plays.md` |
 | A budget, a fee, a CPM, or a market size | `references/benchmarks.md` |
 | A language other than a label | `references/languages.md` |
-| D2C, FMCG, commerce, restaurants, education, clinics, property, finance, or B2B | `references/sectors/` the matching file |
+| D2C, FMCG, commerce, restaurants, education, clinics, property, finance, B2B, apps, travel, jewellery, auto, or a cause | `references/sectors/` the matching file |
+| A buyer the brief names but does not describe | `references/personas.md` |
+| A budget tier and the media mix | `references/channels.md` |
 | Packs, EMI, UPI, COD | `references/offers.md` |
 | Kirana, modern trade, a marketplace, or quick commerce | `references/distribution.md` |
 | A WhatsApp thread | `references/whatsapp.md` |
@@ -69,6 +71,7 @@ Fill the fields. Do not copy these instructions into the deliverable.
 - Strategy only: `assets/campaign.md`
 - A film or a creator script only: `assets/script.md`
 - A review of work the user already has: `assets/critic.md`, and do not rewrite unless they ask
+- Results of a flight or test the user already ran: `assets/readout.md`
 
 Put the audience in the first lines. Write audience-facing lines in the audience language. Under them, add an English working translation when the user is working in English.
 

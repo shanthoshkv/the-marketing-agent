@@ -6,6 +6,7 @@ Score the draft. Do not rewrite it. One line per fail. No praise.
 - Audience named, place and language:
 - City brief stayed on those cities:
 - Language matches `languages.md`, not mock pidgin:
+- Lines sound spoken by that buyer; script (Devanagari or Roman) fits the surface; no word-for-word English idiom:
 - Altitude matches `examples.md` (occasion written, invented facts absent):
 - Sector gate in `compliance.md` held:
 - Festival is that place's festival, or absent:

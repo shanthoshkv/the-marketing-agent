@@ -4,6 +4,8 @@ A Claude Code plugin, and a portable agent skill, for marketing to Indian audien
 
 It will not invent a recipe, a delivery area, a cure, or a rate card to make the brief feel finished.
 
+Sectors: D2C, FMCG, commerce, restaurants, education, clinics, property, finance, B2B, apps, travel, jewellery and weddings, auto, and causes. Changes per version are in `CHANGELOG.md`.
+
 ## Install
 
 In Claude Code:
@@ -39,6 +41,26 @@ New-Item -ItemType Junction -Path "$env:USERPROFILE\.grok\skills\feed-hooks" -Ta
 
 Run that from the repo root. Use `/india-marketing`, or ask for marketing aimed at an Indian audience, company, or city.
 
+## Example
+
+```
+/india-marketing:kit Reel for my sweet shop in Lucknow. Kaju katli ₹960 a kilo. Diwali. Orders on WhatsApp 9 am to 9 pm.
+```
+
+Returns a founder kit in Hindi (marked as an assumption) with an English working translation, three hooks, a 14-second film table, the first WhatsApp reply, and `Missing` for the shop name, number, and delivery area. Full output: `examples/founder-kit.md`. A critic pass: `examples/critic-pass.md`.
+
+## Commands
+
+| Command | Writes |
+| --- | --- |
+| `/india-marketing:brief` | A brief from a rough idea |
+| `/india-marketing:kit` | Full campaign kit |
+| `/india-marketing:campaign` | Strategy only |
+| `/india-marketing:script` | Film or creator script |
+| `/india-marketing:critique` | Scores a draft, does not rewrite |
+| `/india-marketing:calendar` | Festival and category calendar |
+| `/india-marketing:readout` | Planned vs actual, scale or kill |
+
 ## What a run writes
 
 Founder mode is one city and a short kit. Agency mode is the full kit plus a critic pass. A month of content is eight slots, not thirty invented claims. A hook, or a question about how a feed ranks a post, uses `skills/feed-hooks`.
@@ -50,10 +72,19 @@ Founder mode is one city and a short kit. Agency mode is the full kit plus a cri
 | `assets/campaign.md` | You want the strategy only |
 | `assets/script.md` | You want a film or a creator script only |
 | `assets/critic.md` | You want the draft scored, not rewritten |
+| `assets/readout.md` | A flight ended and you want scale, fix, or kill |
 
 Audience-facing lines are in the audience language. A figure from the benchmarks file carries its source and month. A row older than a year is context. A price or city the agent added is marked `Assumption:`.
 
 Two agents sit beside the skill. `marketing-critic` scores a draft. `marketing-researcher` fetches a live number or date and does not write the ad.
+
+## Evals
+
+```
+claude plugin eval .
+```
+
+Each folder in `evals/` is one pressure case: `prompt.md` plus an LLM grader. Results land in `evals/results/`, which git ignores.
 
 ## What this version does not do
 
@@ -64,7 +95,9 @@ No media buying, no ad-account login, and no finished film. The skill writes the
 ```
 .claude-plugin/plugin.json
 agents/                    critic, researcher
-evals/scenarios.md
+commands/                  slash commands
+evals/                     claude plugin eval suite
+examples/                  golden outputs
 research/papers/           open papers on hooks and ranking
 skills/feed-hooks/         skill built from those papers
 skills/india-marketing/

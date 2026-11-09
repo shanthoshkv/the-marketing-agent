@@ -5,6 +5,7 @@ Fail the draft on any "no". Fix it before you deliver.
 - The audience is named in the first lines, with a place and a language.
 - A city brief stayed on those cities.
 - Spoken lines match that language. There is no mock pidgin.
+- Read every spoken line aloud as that buyer would. Hinglish mixes where people mix (nouns, brands, numbers), not in every clause. The script matches the place: Devanagari for print and on-screen text in a Hindi town unless the brief says Roman; Roman Hindi only for a feed caption aimed at urban viewers. No literal English idiom translated word for word.
 - An English working translation sits under audience-facing lines when the user works in English.
 - Ingredients, clinical effects, delivery areas, and "free from" lines are in the brief, or they are absent from the script.
 - The offer, the pack, and the path to buy match a conversion job. A fame film is labeled as fame.
